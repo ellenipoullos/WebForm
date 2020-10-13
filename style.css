@@ -24,7 +24,7 @@ input {
 }
 
 input:focus {
-
+  border: 5px solid red; 
 }
 
 button:hover {
